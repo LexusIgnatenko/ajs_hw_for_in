@@ -1,6 +1,6 @@
 # `for ... in`
 
-[![Build status](https://ci.appveyor.com/api/projects/status/23b3u6j4swy4jojo?svg=true)](https://ci.appveyor.com/project/Maksim-Gavr-04/ajs-6-for-in)
+[![Build status](https://ci.appveyor.com/api/projects/status/d9v0j33xgdy8maee?svg=true)](https://ci.appveyor.com/project/LexusIgnatenko/ajs-hw-for-in)
 
 ## Легенда
 
